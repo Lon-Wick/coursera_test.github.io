@@ -1,2 +1,2 @@
-# coursera_test.github.io-
+# coursera_test.github.io
 coursera test page
